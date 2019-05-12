@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43b7b310-7c19-4155-a87c-501b89df28b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/tasks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/tasks.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/tasks.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/tasks.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/static_pages/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/static_pages/index.html.erb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -32,6 +32,7 @@
           <entry key="erb" value="1" />
           <entry key="js" value="2" />
           <entry key="rb" value="8" />
+          <entry key="scss" value="1" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
@@ -40,23 +41,26 @@
           <entry key="JavaScript" value="2" />
           <entry key="RHTML" value="1" />
           <entry key="Ruby" value="9" />
+          <entry key="SCSS" value="1" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="17" />
-          <entry key="erb" value="138" />
-          <entry key="js" value="1" />
+          <entry key="erb" value="166" />
+          <entry key="js" value="2" />
           <entry key="rb" value="506" />
+          <entry key="scss" value="5" />
           <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1" />
-          <entry key="RHTML" value="138" />
+          <entry key="JavaScript" value="2" />
+          <entry key="RHTML" value="166" />
           <entry key="Ruby" value="523" />
+          <entry key="SCSS" value="5" />
           <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
@@ -76,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="423">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -85,8 +89,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/tasks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+            <state relative-caret-position="377">
+              <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/tasks.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="379" lean-forward="true" selection-start-line="379" selection-end-line="379" />
+              <folding>
+                <element signature="e#3267#3471#2" expanded="true" />
+                <element signature="e#3525#3792#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +145,7 @@
         <option value="$PROJECT_DIR$/spec/controllers/tasks_controller_spec.rb" />
         <option value="$PROJECT_DIR$/app/controllers/tasks_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/tasks.scss" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/tasks.js" />
       </list>
     </option>
@@ -196,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="index.html.erb&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/app/views/static_pages/index.html.erb&#10;application.js&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/app/assets/javascripts/application.js&#10;task_&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/app/controllers/tasks_controller.rb&#10;tasks_helper&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/spec/helpers/tasks_helper_spec.rb&#10;tasks&#9;null&#9;null&#10;task_control&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/spec/controllers/tasks_controller_spec.rb&#10;Gemfile&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/Gemfile&#10;routes.rb&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/config/routes.rb&#10;static&#9;null&#9;null&#10;datab&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/config/database.yml&#10;database.yml&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/config/database.yml" />
+    <property name="SearchEverywhereHistoryKey" value="tasks.scss&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/app/assets/stylesheets/tasks.scss&#10;index.html.erb&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/app/views/static_pages/index.html.erb&#10;application.js&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/app/assets/javascripts/application.js&#10;task_&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/app/controllers/tasks_controller.rb&#10;tasks_helper&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/spec/helpers/tasks_helper_spec.rb&#10;tasks&#9;null&#9;null&#10;task_control&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/spec/controllers/tasks_controller_spec.rb&#10;Gemfile&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/Gemfile&#10;routes.rb&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/config/routes.rb&#10;static&#9;null&#9;null&#10;datab&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/config/database.yml&#10;database.yml&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/todo/config/database.yml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -329,12 +347,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557625172123</updated>
-      <workItem from="1557625173709" duration="8538000" />
+      <workItem from="1557625173709" duration="8899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8538000" />
+    <option name="totallyTimeSpent" value="8899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="978" extended-state="6" />
@@ -438,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/tasks_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -452,10 +463,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/tasks.js">
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
-          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/tasks.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="379" lean-forward="true" selection-start-line="379" selection-end-line="379" />
+          <folding>
+            <element signature="e#3267#3471#2" expanded="true" />
+            <element signature="e#3525#3792#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
         </state>
       </provider>
     </entry>
